@@ -1,0 +1,107 @@
+[
+  {
+    "timestamp": "2024-01-31T12:00:00",
+    "level": "INFO",
+    "message": "Application started successfully",
+    "module": "Main",
+    "user": "john.doe"
+  },
+  {
+    "timestamp": "2024-01-31T12:05:00",
+    "level": "DEBUG",
+    "message": "Processing data",
+    "module": "DataProcessor",
+    "user": "mary.smith"
+  },
+  {
+    "timestamp": "2024-01-31T12:10:00",
+    "level": "WARNING",
+    "message": "Low disk space",
+    "module": "SystemMonitor",
+    "user": "admin"
+  },
+  {
+    "timestamp": "2024-01-31T12:15:00",
+    "level": "ERROR",
+    "message": "Database connection failed",
+    "module": "Database",
+    "user": "developer"
+  },
+  {
+    "timestamp": "2024-01-31T12:20:00",
+    "level": "INFO",
+    "message": "User login",
+    "module": "Authentication",
+    "user": "alice.wonder"
+  },
+  {
+    "timestamp": "2024-01-31T12:25:00",
+    "level": "DEBUG",
+    "message": "API request received",
+    "module": "API",
+    "user": "bob.jones"
+  },
+  {
+    "timestamp": "2024-01-31T12:30:00",
+    "level": "ERROR",
+    "message": "Critical system error",
+    "module": "System",
+    "user": "admin"
+  },
+  {
+    "timestamp": "2024-01-31T12:35:00",
+    "level": "INFO",
+    "message": "Task completed",
+    "module": "TaskManager",
+    "user": "john.doe"
+  },
+  {
+    "timestamp": "2024-01-31T12:40:00",
+    "level": "DEBUG",
+    "message": "UI component updated",
+    "module": "UI",
+    "user": "alice.wonder"
+  },
+  {
+    "timestamp": "2024-01-31T12:45:00",
+    "level": "WARNING",
+    "message": "Network connectivity issues",
+    "module": "Network",
+    "user": "bob.jones"
+  },
+  {
+    "timestamp": "2024-01-31T12:50:00",
+    "level": "ERROR",
+    "message": "File not found",
+    "module": "FileIO",
+    "user": "developer"
+  },
+  {
+    "timestamp": "2024-01-31T12:55:00",
+    "level": "INFO",
+    "message": "User logout",
+    "module": "Authentication",
+    "user": "mary.smith"
+  },
+  {
+    "timestamp": "2024-01-31T13:00:00",
+    "level": "DEBUG",
+    "message": "Performance optimization",
+    "module": "Optimization",
+    "user": "john.doe"
+  },
+  {
+    "timestamp": "2024-01-31T13:05:00",
+    "level": "INFO",
+    "message": "Backup completed successfully",
+    "module": "Backup",
+    "user": "admin"
+  },
+  {
+    "timestamp": "2024-01-31T13:10:00",
+    "level": "ERROR",
+    "message": "Invalid input data",
+    "module": "Validation",
+    "user": "alice.wonder"
+  }
+]
