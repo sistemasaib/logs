@@ -49,45 +49,10 @@
     "user": "admin"
   },
   {
-    "timestamp": "2024-01-31T12:35:00",
-    "level": "INFO",
-    "message": "Task completed",
-    "module": "TaskManager",
-    "user": "john.doe"
-  },
-  {
     "timestamp": "2024-01-31T12:45:00",
     "level": "WARNING",
     "message": "Network connectivity issues",
     "module": "Network",
     "user": "bob.jones"
-  },
-  {
-    "timestamp": "2024-01-31T12:50:00",
-    "level": "ERROR",
-    "message": "File not found",
-    "module": "FileIO",
-    "user": "developer"
-  },
-  {
-    "timestamp": "2024-01-31T12:55:00",
-    "level": "INFO",
-    "message": "User logout",
-    "module": "Authentication",
-    "user": "mary.smith"
-  },
-  {
-    "timestamp": "2024-01-31T13:05:00",
-    "level": "INFO",
-    "message": "Backup completed successfully",
-    "module": "Backup",
-    "user": "admin"
-  },
-  {
-    "timestamp": "2024-01-31T13:10:00",
-    "level": "ERROR",
-    "message": "Invalid input data",
-    "module": "Validation",
-    "user": "alice.wonder"
   }
 ]
