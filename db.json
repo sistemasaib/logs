@@ -33,19 +33,5 @@
     "message": "User login",
     "module": "Authentication",
     "user": "alice.wonder"
-  },
-  {
-    "timestamp": "2024-01-31T12:25:00",
-    "level": "DEBUG",
-    "message": "API request received",
-    "module": "API",
-    "user": "bob.jones"
-  },
-  {
-    "timestamp": "2024-01-31T12:45:00",
-    "level": "WARNING",
-    "message": "Network connectivity issues",
-    "module": "Network",
-    "user": "bob.jones"
   }
 ]
